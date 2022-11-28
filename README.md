@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deshdeepak Jha</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">An enthusiastic Full-Stack Web Developer, a lifelong learner, and skilled in back-end Web Development.
+                        Knowledge of core Java, JavaScript, Html, CSS, and MySql.
+                        High adaptability to learn new technologies quickly and pay attention to details.
+                        Aims to leverage knowledge and build some world-class websites while facilitating the organization in achieving functional goals.</h3>
 
 <img align="right" alt="coding" width="1000" height="400" src="https://media4.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
