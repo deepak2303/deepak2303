@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Java,MySql**
 
-- 👨‍💻 All of my projects are available at [https://deepak2303.github.io/](https://deepak2303.github.io/)
+- 👨‍💻 My Portfolio [https://deepak2303.github.io/](https://deepak2303.github.io/)
 
 - 💬 Ask me about **JavaScript, Java**
 
