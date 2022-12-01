@@ -37,8 +37,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak2303&show_icons=true&locale=en&layout=compact" alt="deepak2303" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak2303&show_icons=true&locale=en" alt="deepak2303" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepak2303&show_icons=true&locale=en" alt="deepak2303" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2303&" alt="deepak2303" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2303&" alt="deepak2303" /></p>
 
 <img align="right" alt="coding" width="1000" height="400" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
