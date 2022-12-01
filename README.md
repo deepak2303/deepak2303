@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deshdeepak Jha</h1>
 
-<img align="right" alt="coding" width="1000" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="1000" height="400" src="https://media.tenor.com/qoDOnF_uBYIAAAAC/office-motion-graphics.gif">
 
 
 <h3 align="left">An enthusiastic Full-Stack Web Developer, a lifelong learner, and skilled in back-end Web Development.
