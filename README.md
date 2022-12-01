@@ -35,10 +35,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak2303&show_icons=true&locale=en&layout=compact" alt="deepak2303" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepak2303&show_icons=true&locale=en" alt="deepak2303" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepak2303&show_icons=true&theme=radical" height="255px" width="47%"/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2303&theme=radical" alt="deepak2303" height="255px" width="47%" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2303&" alt="deepak2303" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2303&theme=radical&langs_count=8" alt="deepak2303" height="230px" width="25%"/></p>
 
-<img align="right" alt="coding" width="1000" height="400" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+<img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepak2303&theme=radical" alt="deepak2303" height="220px" width="70%"/>
+
+
+<img align="right" alt="coding" width="1000" height="300" src="https://i.pinimg.com/originals/13/44/cd/1344cdb8afc60644ab100307da6c3487.gif">
