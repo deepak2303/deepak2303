@@ -5,7 +5,7 @@
 
 <img align="left" alt="coding" width="1000" height=50px src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif">
 
-<h3 align="left">An enthusiastic Full-Stack Web Developer, a lifelong learner, and skilled in back-end Web Development.
+<h3 align="center">An enthusiastic Full-Stack Web Developer, a lifelong learner, and skilled in back-end Web Development.
                   Knowledge of core Java, JavaScript, Html, CSS, and MySql.
                   High adaptability to learn new technologies quickly and pay attention to details.
                   Aims to leverage knowledge and build some world-class websites while facilitating the organization in achieving functional goals.</h3>
